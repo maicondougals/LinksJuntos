@@ -2,7 +2,11 @@ body{
     background-color:whitesmoke;
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/9748978-barbearia-cabeleireiro-ferramentas-em-fundo-grunge-padrao-sem-costura-design-textil-papel-de-parede-estoque-ilustracao-vetor.jpg);
+    background-position: center;
+    background-size: cover;
 }
+
 nav{
     display: flex;
     flex-direction: column;
@@ -50,7 +54,7 @@ a img{
 .instagram, .site, .whatsapp{
    
     display: flex;
-    background-color:  rgb(235, 148, 39);
+    background-color:bisque;
     max-width: 700px;
     width: 100%;
     height: 80px;
@@ -77,3 +81,4 @@ a img{
     order: 2;
     display:flex;
  }
+
